@@ -1,0 +1,28 @@
+body {
+  background-color: skyblue;
+}
+h1 {
+  background-color: lightskyblue;
+}
+p {
+  color: black;
+  padding: 30px;
+
+}
+
+a:link, a:visited {
+  background-color: skyblue;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover {
+  background-color: red;
+}
+
+a:active {
+  background-color: powderblue;
+}
